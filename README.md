@@ -1,4 +1,4 @@
 
-# Js Express Basics Deep Dive
+# JavaScript Express Basics Deep Dive
  
- - A simple project showcasing usages of ExpressJs library
+ - A simple project showcasing usages of Express library
