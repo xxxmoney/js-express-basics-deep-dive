@@ -5,7 +5,8 @@
 // You can run each one with `npm run dev:01`, `npm run dev:02`, etc
 
 const tableOfContents  = [
-    { name: 'app_01.js', description: 'Basic web server with Express' },
+    { name: 'app_01.js', description: 'Basic setup - dead simple basics' },
+    { name: 'app_02.js', description: 'Routing & Request Handling' },
 ];
 
 console.log('Greetings presumably human consumer - please select corresponding example - app_01.js, app_02.js, etc');

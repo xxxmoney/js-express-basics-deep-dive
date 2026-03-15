@@ -1,7 +1,7 @@
 
 //
 //
-// The Glory of brining JavaScript to backend - Express!
+// Basic setup - dead simple basics
 //
 //
 
@@ -75,7 +75,7 @@
 import express from 'express';
 
 // Just defining the port variable - will use this lower
-const PORT = 3000;
+const PORT = 666;
 
 // This creates new instance of the Express app - we will use this instance to set up our web server, define the routes, etc
 const app = express();
