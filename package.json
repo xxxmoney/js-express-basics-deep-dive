@@ -2,10 +2,11 @@
   "name": "js-express-basics-deep-dive",
   "version": "1.0.0",
   "description": "- A simple project showcasing usages of Express library",
-  "main": "index.js",
+  "main": "app_01.js",
   "type": "module",
   "scripts": {
-    "dev": "node index.js"
+    "dev": "node index.js",
+    "dev:01": "node app_01.js"
   },
   "repository": {
     "type": "git",
