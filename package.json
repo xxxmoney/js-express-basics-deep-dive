@@ -8,7 +8,8 @@
     "dev": "node index.js",
     "dev:01": "node app_01.js",
     "dev:02": "node app_02.js",
-    "dev:03": "node app_03.js"
+    "dev:03": "node app_03.js",
+    "dev:04": "node app_04.js"
   },
   "repository": {
     "type": "git",
@@ -22,6 +23,7 @@
   },
   "homepage": "https://github.com/xxxmoney/js-express-basics-deep-dive#readme",
   "dependencies": {
+    "cors": "^2.8.6",
     "express": "^5.2.1"
   }
 }
